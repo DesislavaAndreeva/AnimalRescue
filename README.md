@@ -7,9 +7,9 @@ University evaluation project in system programming.
 
 # Description
 
-Animal Rescue Sofia needs help reporting its animals. Often new ones come, the old ones 
-are adopted and between these two events - they get castrated. The application should manage
-a list of all animals containing data for these three events and allow statistical samplings.
+IPC application that helps keeping track of animals in Animal Rescue center located in Sofia.
+The application should manage a list of all animals containing data for few events - arrival, 
+adoption and castration of an animal and should allow statistical samplings.
 
 # Details
 
