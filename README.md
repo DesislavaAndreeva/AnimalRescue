@@ -3,11 +3,11 @@ Multithread IPC client-server application with POSIX threads
 
 # General info
 
-University evaluation project in system programming.
+University evaluation project in system programming
 
 # Description
 
-IPC(Inter-process communication) application that helps keeping track of the animals in Animal Rescue center located in Sofia.
+IPC (Inter-process communication) application that helps keeping track of the animals in Animal Rescue center located in Sofia.
 The application should manage a list of information about all the animals and data for few events - arrival, adoption and 
 castration of an animal. The application should allow statistical samplings.
 
