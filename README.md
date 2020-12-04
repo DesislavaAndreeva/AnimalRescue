@@ -45,3 +45,7 @@ make
  ### Client/s
  
   ./animalrescueclient
+
+# TODO
+
+Add comments in the code
